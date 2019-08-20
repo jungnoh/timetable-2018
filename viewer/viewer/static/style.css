@@ -1,0 +1,57 @@
+main {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 80px;
+}
+#textarea-json {
+    margin: 20px 0px 10px 0px;
+    height: 200px;
+}
+#textarea-label {
+    margin: 20px 0px;
+}
+.nodeExample1 {
+    padding: 2px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    border: 1px solid #000;
+    width: auto;
+    height: 40px;
+    font-family: Tahoma;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    text-align: center;
+}
+.root-blue { 
+    background-color: rgb(42, 104, 250);  
+}
+.blue { 
+    background-color: #A2BDFD;  
+}
+.red { 
+    background-color: rgb(250, 107, 107);  
+}
+.leaf { 
+    background-color: rgb(117, 218, 138);  
+}
+#visualize-json {
+    background-color: #FFF;
+}
+#text-imgloading {
+    visibility: hidden;
+}
+#st-table {
+    overflow-x:scroll;
+}
+.text-yes {
+    color: rgb(42, 104, 250);  
+}
+.text-no {
+    color: rgb(250, 107, 107);  
+}
